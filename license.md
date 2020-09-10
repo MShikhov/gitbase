@@ -1,3 +1,4 @@
+[<На главную](./readme.md)
 The MIT License (MIT)
 Copyright © 2020 Misha Shikhov
 
